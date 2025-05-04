@@ -5,4 +5,8 @@ public class Vehicle {
     public String model;
     public int year;
     public String fuel_type;
+    public String transmission;
+    public String color;
+    public String body;
+    public String drivetrain;
 }
